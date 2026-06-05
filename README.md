@@ -1,7 +1,7 @@
 # 🚀 Euroxnow | Global Trading & Investment Solutions
 
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" alt="Euroxnow Logo" width="180">
+  <img src="[YOUR_LOGO_URL_HERE](https://euroxnow.com/wp-content/themes/custom/assets/img/child-custom-violet/replaceable/logo.svg?v=1776256594)" alt="Euroxnow Logo" width="180">
 </p>
 
 <p align="center">
